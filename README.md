@@ -27,7 +27,7 @@ I am passionate about:
 - Full Stack Development
 
 ## Connect With Me
-- Email: amuneeba16@gnail.com
+- Email: amuneeba16@gmail.com
 **MMuneeba/MMuneeba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
