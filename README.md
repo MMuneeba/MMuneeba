@@ -1,6 +1,33 @@
 ## Hi there 👋
 
-<!--
+<!-# Hi, I'm Muneeba 👋
+
+## Computer Science Student
+
+I am passionate about:
+- Software Development
+- Object-Oriented Programming
+- Networking
+- Web Development
+
+## Technologies & Tools
+- C++
+- Java
+- Python
+- HTML/CSS
+- Git & GitHub
+
+## Featured Projects
+- Library Management System
+- Student Management System
+- Networking Lab Projects
+
+## Currently Learning
+- Data Structures & Algorithms
+- Full Stack Development
+
+## Connect With Me
+- Email: amuneeba16@gnail.com
 **MMuneeba/MMuneeba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
