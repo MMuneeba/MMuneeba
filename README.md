@@ -19,7 +19,7 @@ I am passionate about:
 
 ## Featured Projects
 - Library Management System
-- Student Management System
+- Hospital Management System
 - Networking Lab Projects
 
 ## Currently Learning
