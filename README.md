@@ -67,8 +67,13 @@ I'm continuously working on academic and personal projects to strengthen my prac
 
 **Thanks for visiting my profile! Let's learn, build, and grow together. 🚀**
 
-## Connect With Me
-- Email: amuneeba16@gmail.com
+## 📫 Connect With Me
+
+I'm always open to connecting with developers, collaborating on projects, and exploring learning opportunities.
+
+- 📧 **Email:** your-email@gmail.com
+- 💻 **GitHub:** [My GitHub](MMuneeba)
+- 🌐 **Portfolio:** Coming Soon
 
 
 
