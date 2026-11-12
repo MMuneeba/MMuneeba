@@ -72,7 +72,7 @@ I'm continuously working on academic and personal projects to strengthen my prac
 I'm always open to connecting with developers, collaborating on projects, and exploring learning opportunities.
 
 - 📧 **Email:** your-email@gmail.com
-- 💻 **GitHub:** [My GitHub](MMuneeba)
+- 💻 **GitHub:** [https://github.com/MMuneeba]
 - 🌐 **Portfolio:** Coming Soon
 
 
