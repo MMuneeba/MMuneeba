@@ -54,7 +54,7 @@ I'm passionate about software development, problem-solving, and exploring how te
 
 ---
 
-## 📂 Featured Projects
+## 📂 Featured Repositories
 
 Here are some of my academic and practical projects:
 
