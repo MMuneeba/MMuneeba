@@ -1,89 +1,94 @@
-# 👋 Hi, I'm Muneeba Arshad!
+# Hi, I'm Muneeba Arshad 👋
 
-### 💻 Software Engineering Student | Aspiring Machine Learning Engineer
+### Software Engineering Student | Aspiring Machine Learning Engineer
 
-Welcome to my GitHub! I'm a 5th-semester Software Engineering student at the **University of Azad Jammu & Kashmir (UAJK)**, passionate about technology, problem-solving, and building meaningful software solutions.
+I'm a 5th-semester Software Engineering student at the **University of Azad Jammu & Kashmir (UAJK)**, Pakistan.
 
-I'm currently exploring the intersection of **Software Engineering, Machine Learning, and Data Science**, turning theoretical knowledge into practical projects.
+I'm passionate about software development, problem-solving, and exploring how technology can solve real-world problems. Currently, I'm building my skills in **Python, Machine Learning, and Data Science** through academic projects and hands-on practice.
 
 ---
 
-## 🎓 About Me
+## 👩‍💻 About Me
 
-- 🎓 BS Software Engineering | Batch 2024–28
-- 🏛️ University of Azad Jammu & Kashmir, Muzaffarabad
-- 🤖 Exploring Machine Learning and Data Analysis
-- 🐍 Learning Python through practical projects
-- 🧠 Interested in Software Architecture and Intelligent Systems
-- 🌱 Always learning, experimenting, and improving.
+- 🎓 BS Software Engineering — Batch 2024–2028
+- 🏛️ University of Azad Jammu & Kashmir
+- 🤖 Exploring Machine Learning and Artificial Intelligence
+- 🐍 Learning Python through practical implementation
+- 📊 Interested in Data Analysis and Visualization
+- 🧠 Passionate about Software Engineering and Intelligent Systems
+- 🌱 Continuously learning and improving my technical skills
+
+---
 
 ## 🛠️ Technical Skills
 
 **Programming Languages**
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+C++ · Java · Python
 
 **Data Science & Machine Learning**
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+NumPy · Pandas · Matplotlib
 
-**Tools & Platforms**
+**Tools & Development Environment**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+Git · GitHub · VS Code · Jupyter Notebook
+
+**Core Concepts**
+
+Object-Oriented Programming · Database Systems · Computer Networks · Digital Image Processing
+
+---
 
 ## 🚀 Areas of Interest
 
 - Machine Learning & Artificial Intelligence
-- Data Analysis & Visualization
+- Data Science & Data Visualization
 - Software Development
-- Database Management Systems
-- Object-Oriented Programming
-- Computer Networks
-
-## 📂 Featured Projects
-
-I'm continuously working on academic and personal projects to strengthen my practical skills.
-
-*More projects coming as I continue my learning journey!*
-
-## 📊 GitHub Statistics
-
-
-
-<h2 align="center"> My GitHub Statistics</h2>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MMuneeba&theme=tokyonight" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MMuneeba&theme=tokyonight" />
-</p>
-
-
+- Intelligent Systems
+- Software Architecture
 
 ---
 
-### ✨ My Philosophy
+## 📂 Featured Projects
 
-*"Driven by curiosity, powered by consistency, and determined to create something meaningful."*
+Here are some of my academic and practical projects:
 
-**Thanks for visiting my profile! Let's learn, build, and grow together. 🚀**
+| Project | Description |
+|---|---|
+| [Digital Image Processing Labs](https://github.com/MMuneeba/DIP_Lab_2024-SE-06) | Practical image processing tasks using Python. |
+| [Machine Learning Labs](https://github.com/MMuneeba/ML-Lab-2024SE06) | Academic Machine Learning practice and experiments. |
+| [Computer Networks Labs](https://github.com/MMuneeba/Computer-Networks-Lab-Tasks) | Networking concepts and lab implementations. |
+| [Database System Labs](https://github.com/MMuneeba/Database-System-Labs) | Database concepts and practical lab work. |
+
+---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MMuneeba&show_icons=true&hide_border=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MMuneeba&layout=compact&hide_border=true&theme=tokyonight)
+
+---
+
+## 📈 Contribution Activity
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=MMuneeba&theme=tokyo-night&hide_border=true)
+
+---
+
+## ✨ My Philosophy
+
+*"Driven by curiosity, powered by consistency, and committed to continuous learning."*
+
+---
 
 ## 📫 Connect With Me
 
-I'm always open to connecting with developers, collaborating on projects, and exploring learning opportunities.
+- **GitHub:** (https://github.com/MMuneeba)
+- **Email:**  (amuneeba16@gmail.com)
+- **Portfolio:** Coming Soon
 
-- 📧 **Email:** your-email@gmail.com
-- 💻 **GitHub:** [https://github.com/MMuneeba]
-- 🌐 **Portfolio:** Coming Soon
+---
 
-
-
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and follow my learning journey.
