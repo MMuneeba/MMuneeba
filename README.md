@@ -67,7 +67,6 @@ Here are some of my academic and practical projects:
 
 ---
 
-## 📊 GitHub Statistics
 
 ## 📊 My GitHub Overview
 
@@ -87,13 +86,6 @@ Here are some of my academic and practical projects:
 
 
 
-
-
----
-
-## 📈 Contribution Activity
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=MMuneeba&theme=tokyo-night&hide_border=true)
 
 ---
 
