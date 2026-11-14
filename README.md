@@ -69,15 +69,26 @@ Here are some of my academic and practical projects:
 
 ## 📊 GitHub Statistics
 
+## 📊 My GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MMuneeba&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MMuneeba&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MMuneeba&theme=tokyonight" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MMuneeba&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MMuneeba&theme=tokyonight" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MMuneeba&theme=tokyonight" width="49%" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MMuneeba&theme=tokyonight" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MMuneeba&theme=tokyonight" width="49%" />
+</p>
+
+
+
+
+
 ---
 
 ## 📈 Contribution Activity
